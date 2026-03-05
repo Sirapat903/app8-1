@@ -2,9 +2,7 @@ import React from 'react'
 import FormPost from './form-post'
 
 function App() {
-  return ( <FormPost />
-    
-  );
+  return ( <FormPost />);
 }
 
 export default App;
